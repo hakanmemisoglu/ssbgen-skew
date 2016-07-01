@@ -1,0 +1,8 @@
+[package]
+name = "ssbgen-skew"
+version = "0.1.0"
+authors = ["Hakan Memisoglu <hakanmemisoglu@gmail.com>"]
+
+[dependencies]
+getopts = "0.2.14"
+rand = "0.3.14"
